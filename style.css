@@ -1,0 +1,84 @@
+
+
+  h1{
+
+    font-style:bold;
+    text-align:center;
+    padding: 5px;
+    color:black;
+
+  }
+
+  h2{
+    text-align:center;
+  }
+
+  ul{
+    margin-right:40px;
+  }
+  div.pageLinks{
+    border-top-width: 5px;
+    border-top-style:solid;
+    border-top-color:black;
+    margin-top:15px;
+    text-align: center;
+    float:none;
+    font-style:bold;
+
+  }
+  div.socialMediaTags{
+    text-align: center;
+    font-style:bold;
+  }
+  div.Intro{
+    margin:auto;
+    text-align:center;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    border-color: black;
+    width: 500px;
+    padding: 20px;
+
+  }
+
+  #List{
+    text-align:center;
+  }
+  #Tag{
+    font-style:bold;
+    font-size:28px;
+  }
+  #Description{
+    font-size:24px;
+    text-align:left;
+  }
+  #headShot{
+    float:right;
+    padding:20px;
+  }
+  #RelaxrImg{
+    padding:20px;
+  }
+  #StartupImg{
+    padding:20px;
+  }
+  #CitiPixImg{
+    padding:20px;
+  }
+
+  li.socialMedia{
+    display: inline-block; float: none;
+  }
+  li.socialMedia a{
+    color:black;
+    font-style:bold;
+  }
+  li.page{
+    display: inline-block; float: none;
+  }
+  li.page a{
+    color:black;
+    font-style:bold;
+  }
